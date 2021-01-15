@@ -2,7 +2,7 @@
  const DB_HOST    = "localhost";
  const DB_NAME    = "micro-url";
  const DB_LOGIN   = "user1";
- const DB_PASS    = "keanureeves";
+ const DB_PASS    = "FAUT DEMANDER";
 
  const DB_DRIVER  = "mysql";
  const DB_CHARSET = "utf8mb4";
